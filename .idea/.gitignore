@@ -19,6 +19,7 @@ build/
 *.iml
 *.ipr
 out/
+*.xml
 
 ### NetBeans ###
 /nbproject/private/
@@ -38,7 +39,7 @@ out/
 *.zip
 *.tar.gz
 *.rar
-*.xml
+
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
