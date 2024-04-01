@@ -38,8 +38,8 @@ out/
 *.zip
 *.tar.gz
 *.rar
-*.xml
-*.iml
+
+/.idea/*.xml
 
 ### Exclusions ###
 !gradle/wrapper/gradle-wrapper.jar
